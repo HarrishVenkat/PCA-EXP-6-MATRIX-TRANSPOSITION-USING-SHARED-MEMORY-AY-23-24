@@ -398,4 +398,4 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ![image](https://github.com/user-attachments/assets/06b492a4-c038-4c1c-b39c-959c8e4f838f)
 
 ## RESULT:
-Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. The elapsed times are recorded as _______________.
+Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. 
